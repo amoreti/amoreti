@@ -3,7 +3,9 @@
 - 💼 I’m currently working with information security, more specifically with encryption keys and PCI certification.
 - 👩‍🎓 I’m learning systems development to help with my work.
 - 💻 Focused on Python, for now.
-- 📧 E-mail: 
+- 📧 E-mail:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoreti)](https://github.com/amoreti/github-readme-stats)
 
 ## 📍Como me encontrar
 <a href="https://www.linkedin.com/in/amanda-moreti-santos-4b666730/" target="_blank">
@@ -12,3 +14,5 @@
 
 ## 🛠️Tecnologias que estudo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
