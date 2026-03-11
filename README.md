@@ -5,7 +5,9 @@
 - 💻 Focused on Python, for now.
 - 📧 E-mail:
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoreti)](https://github.com/amoreti/github-readme-stats)
+-->
 
 ## 📍Como me encontrar
 <a href="https://www.linkedin.com/in/amanda-moreti-santos-4b666730/" target="_blank">
