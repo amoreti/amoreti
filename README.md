@@ -5,9 +5,9 @@
 - 💻 Focused on Python, for now.
 - 📧 amanda_moreti@yahoo.com.br
 
-## How to find me
+## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&
-logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-moreti-santos-4b666730/)
+logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-moreti-santos-4b666730)
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
