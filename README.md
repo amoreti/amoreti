@@ -2,6 +2,8 @@
 
 - 💼 I’m currently working with information security, more specifically with encryption keys and PCI certification.
 - 👩‍🎓 I’m learning systems development to help with my work.
+- 💻 Focused on Python, for now.
+- 📧 amanda_moreti@yahoo.com.br
 
 <!--
 **amoreti/amoreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
