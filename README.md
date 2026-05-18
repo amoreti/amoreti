@@ -15,6 +15,12 @@
 </a>
 
 ## 🛠️Tecnologias que estudo
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/W3.CSS-04AA6D?style=for-the-badge&logo=w3c&logoColor=white" alt="W3.CSS Badge">
+</p>
+
 
 
